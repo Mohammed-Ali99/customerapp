@@ -1,0 +1,30 @@
+
+h1
+{
+    text-align: center;
+    padding: 10px;
+}
+
+h1 , .form
+{
+    background-color: brown;
+    color: white;
+}
+
+.form
+{
+    margin: 100px;
+    padding: 30px;
+}
+
+.table
+{
+    margin: 100px 0px 0px 200px;
+    width: 70%;
+}
+
+.add
+{
+    margin-top: 50px;
+    margin-left: 200px;
+}
